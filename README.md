@@ -1,6 +1,6 @@
 # mlkit
 
-A new Flutter application.
+Trying Firebase MLKit in Flutter.
 
 ## Getting Started
 
